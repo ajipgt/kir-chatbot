@@ -52,9 +52,11 @@ body {
   min-height: var(--header-height);
 }
 
-.header-icon {
-  font-size: 1.8rem;
-  line-height: 1;
+.header-icon img {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+  filter: brightness(0) invert(1); /* putihkan logo agar kontras di header biru */
 }
 
 .header-text h1 {
