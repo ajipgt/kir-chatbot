@@ -1,6 +1,6 @@
 # 🚗 Asisten Regulasi KIR
 
-Chatbot berbasis AI untuk membantu masyarakat dan petugas **UPTD PKB (Unit Pelaksana Teknis Daerah Pengujian Kendaraan Bermotor) Dinas Perhubungan Kabupaten Lumajang** dalam memahami regulasi, prosedur, dan persyaratan pengujian kendaraan bermotor (KIR).
+Chatbot berbasis AI untuk membantu masyarakat dan petugas **UPUBKB (Unit Pelaksana Uji Berkala Kendaraan Bermotor) Dinas Perhubungan Kabupaten Lumajang** dalam memahami regulasi, prosedur, dan persyaratan pengujian kendaraan bermotor (KIR).
 
 > Final Project — AI Productivity and AI API Integration for Developers  
 > Organized by **Hacktiv8** | Supported by Google.org, AVPN, dan Asian Development Bank
